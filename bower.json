@@ -4,6 +4,18 @@
   "dependencies": {
     "angulartics": "~0.20"
   },
+  "keywords": [
+    "coremetrics",
+    "ibm",
+    "analytics",
+    "plugin",
+    "angular",
+    "angulartics"
+  ],
+  "authors": [
+    "Cameron Will <cwill747@gmail.com>"
+  ],
+  "license": "Apache-2.0",
   "ignore": [
     "**/.*",
     "bower_components",
