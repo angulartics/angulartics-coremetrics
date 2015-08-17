@@ -62,7 +62,7 @@ npm run build
 
 ## License
 
-[MIT](LICENSE)
+[Apache v2](LICENSE)
 
 [npm-image]: https://img.shields.io/npm/v/angulartics-coremetrics.svg
 [npm-url]: https://npmjs.org/package/angulartics-coremetrics
