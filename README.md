@@ -1,8 +1,8 @@
-## angulartics-google-analytics
+## angulartics-coremetrics
 
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![Bower version][bower-image]][bower-url] [![Dependencies status][dep-status-image]][dep-status-url] [![MIT license][license-image]][license-url]
 
-Google Analytics plugin for [Angulartics](http://github.com/luisfarzati/angulartics).
+IBM Digital Analytics (formerly Coremetrics Web Analytics) plugin for [Angulartics](http://github.com/luisfarzati/angulartics).
 
 ## Install
 
