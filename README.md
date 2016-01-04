@@ -71,6 +71,6 @@ npm run build
 [bower-image]: https://img.shields.io/bower/v/angulartics-coremetrics.svg
 [bower-url]: http://bower.io/search/?q=angulartics-coremetrics
 [dep-status-image]: https://img.shields.io/david/angulartics/angulartics-coremetrics.svg
-[dep-status-url]: https://david-dm.org/cwill747/angulartics-coremetrics
+[dep-status-url]: https://david-dm.org/angulartics/angulartics-coremetrics
 [license-image]: http://img.shields.io/badge/license-Apachev2-blue.svg
 [license-url]: LICENSE

@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cwill747/angulartics-coremetrics"
+    "url": "https://github.com/angulartics/angulartics-coremetrics"
   },
   "bugs": {
-    "url": "https://github.com/cwill747/angulartics-coremetrics/issues"
+    "url": "https://github.com/angulartics/angulartics-coremetrics/issues"
   },
   "license": "Apache-2.0",
   "dependencies": {
